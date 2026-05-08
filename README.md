@@ -23,3 +23,5 @@ How to run this code:
       7. select 'g++ build and debug active file' 
       8. at the bottom of your screen, you will see the terminal pop up with various tabs 
       9. go to 'terminal' and you can begin interacting with your code; if you wish to stop running the code, you can press 'ctrl + c' to exit the terminal 
+
+Link to report done on this project: https://docs.google.com/document/d/1R6NIGq082J0XWslESpc84nGxtrkSzS8mVJK6qsH_IDw/edit?usp=sharing 
